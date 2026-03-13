@@ -1,16 +1,30 @@
-## Hi there 👋
+# hi, i'm himei
 
-<!--
-**himei7/himei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mostly interested in cybersecurity. still learning things step by step.
 
-Here are some ideas to get you started:
+```php
+<?php
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$me = [
+    "name" => "himei",
+    "field" => "cybersecurity",
+    "focus" => [
+        "offensive security",
+        "defensive security",
+        "malware analysis",
+        "network security"
+    ]
+];
+
+print_r($me);
+
+?>
+```
+
+things i'm trying to learn lately:
+- linux
+- network analysis
+- malware behavior
+- basic scripting
+
+nothing fancy here, just learning and experimenting
