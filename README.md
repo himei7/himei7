@@ -6,7 +6,7 @@ mostly interested in cybersecurity. still learning things step by step.
 <?php
 
 $me = [
-    "name" => "himei",
+    "name" => "SnrIntel",
     "field" => "cybersecurity",
     "focus" => [
         "offensive security",
