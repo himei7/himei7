@@ -1,4 +1,4 @@
-# hi, i'm himei
+# hi, i'm SnrIntel
 
 mostly interested in cybersecurity. still learning things step by step.
 
